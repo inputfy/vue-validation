@@ -1,0 +1,17 @@
+{
+  "name": "@inputfy/vue-validation",
+  "description": "Vue library for form validation using browser API",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inputfy/vue-validation.git"
+  },
+  "keywords": [],
+  "author": "Epifanov Sergey <i@epifanov.pro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inputfy/vue-validation/issues"
+  },
+  "homepage": "https://github.com/inputfy/vue-validation",
+  "packageManager": "yarn@4.3.1"
+}
